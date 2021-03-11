@@ -2,7 +2,7 @@
 //https://drive.google.com/open?id=1wVBKKxpTKvWwuCzqY1cVXCQZYCsdCXTl
 //Вывести топ 10 доменов которые встречаются чаще всего. В документе могут встречается пустые и недопустимые строки.
 
-package chrvk.JavaElementary.hw9.task1;
+package chrvk.javaelementary.hw9.task1;
 
 import java.io.*;
 import java.net.MalformedURLException;

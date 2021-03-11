@@ -1,6 +1,4 @@
-package chrvk.JavaElementary.hw9.task2_3;
-
-import java.util.Map;
+package chrvk.javaelementary.hw9.task23;
 
 public interface MyMap<K, V> {
     public void clear();

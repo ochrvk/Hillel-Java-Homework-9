@@ -1,4 +1,4 @@
-package chrvk.JavaElementary.hw9.task4;
+package chrvk.javaelementary.hw9.task4;
 
 public class Node {
     int data;

@@ -1,4 +1,6 @@
-package chrvk.JavaElementary.hw9.task4;
+package chrvk.javaelementary.hw9.task4;
+
+import chrvk.javaelementary.hw9.task4.Node;
 
 public class RedBlackTree {
     private Node root;

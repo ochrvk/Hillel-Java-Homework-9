@@ -1,6 +1,6 @@
 //2*)Реализовать интерфейс MyMap и его имплементацию MyTreeMap - аналог Map<String, String>
 //3*) Вместо 2* сделать MyMap<K,V>
-package chrvk.JavaElementary.hw9.task2_3;
+package chrvk.javaelementary.hw9.task23;
 
 public class Main {
     public static void main(String[] args) {

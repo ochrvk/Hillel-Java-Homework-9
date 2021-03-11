@@ -1,4 +1,4 @@
-package chrvk.JavaElementary.hw9.task2_3;
+package chrvk.javaelementary.hw9.task23;
 
 import java.util.ArrayList;
 
