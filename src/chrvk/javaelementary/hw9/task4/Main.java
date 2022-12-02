@@ -1,4 +1,3 @@
-//4**) Сделать дерево с балансировкой, черно-белое или AVL
 package chrvk.javaelementary.hw9.task4;
 
 public class Main {
